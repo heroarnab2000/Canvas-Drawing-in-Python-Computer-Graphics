@@ -1,5 +1,6 @@
 # Canvas-Drawing-in-Python-Computer-Graphics
 This is a project designed by Computer Graphics students of STCET. It is designed using graphics.py module which is underlaid as the canvas and other drawing techniques are implemented.
+Refer to the canvas folder for better understanding and viewing the code outputs with documentation.
 
 
 ## The project is implemented by:
